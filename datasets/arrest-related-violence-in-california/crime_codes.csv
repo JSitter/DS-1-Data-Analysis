@@ -1,0 +1,611 @@
+offense_code,summary_code,summary_offense_type,offense_category,before_2014
+1,68,Truancy,Status,0
+1,68,Truancy,Status,1
+2,69,Runaway,Status,0
+2,69,Runaway,Status,1
+3,70,Curfew,Status,0
+3,70,Curfew,Status,1
+4,72,Other Stat Offenses,Status,0
+4,72,Other Stat Offenses,Status,1
+6,72,Other Stat Offenses,Status,0
+6,72,Other Stat Offenses,Status,1
+7,71,Incorrigible,Status,0
+7,71,Incorrigible,Status,1
+9,72,Other Stat Offenses,Status,0
+9,72,Other Stat Offenses,Status,1
+11,72,Other Stat Offenses,Status,0
+11,72,Other Stat Offenses,Status,1
+16,60,Highway,Misdemeanor,0
+16,60,Highway,Misdemeanor,1
+17,67,Probation/Parole,Other,0
+17,67,Probation/Parole,Other,1
+18,67,Probation/Parole,Other,0
+18,67,Probation/Parole,Other,1
+26,40,Lewd Conduct,Misdemeanor,0
+26,40,Lewd Conduct,Misdemeanor,1
+27,60,Fail to Register,Misdemeanor,0
+27,60,Fail to Register,Misdemeanor,1
+28,41,Prostitution,Misdemeanor,0
+28,41,Prostitution,Misdemeanor,1
+36,46,Disturbing the Peace,Misdemeanor,0
+36,46,Disturbing the Peace,Misdemeanor,1
+46,43,Drunk,Misdemeanor,0
+46,43,Drunk,Misdemeanor,1
+47,65,Civil Drunk,Other,0
+47,65,Civil Drunk,Other,1
+48,60,Other,Misdemeanor,0
+48,60,Other,Misdemeanor,1
+49,60,Other,Misdemeanor,0
+49,60,Other,Misdemeanor,1
+56,46,Disturbing the Peace,Misdemeanor,0
+56,46,Disturbing the Peace,Misdemeanor,1
+57,45,Disorderly Conduct,Misdemeanor,0
+57,45,Disorderly Conduct,Misdemeanor,1
+58,60,Public Nuisance,Misdemeanor,0
+58,60,Public Nuisance,Misdemeanor,1
+59,57,Glue Sniffing,Misdemeanor,0
+59,57,Glue Sniffing,Misdemeanor,1
+63,25,Malicious Mischief,Felony,0
+63,25,Malicious Mischief,Felony,1
+64,25,Malicious Mischief,Felony,0
+64,25,Malicious Mischief,Felony,1
+65,27,Outside Warrant,Other,0
+65,27,Outside Warrant,Other,1
+66,47,Vandalism,Misdemeanor,1
+66,47,Vandalism,Misdemeanor,0
+67,48,Malicious Mischief,Misdemeanor,0
+67,48,Malicious Mischief,Misdemeanor,1
+68,49,Trespassing,Misdemeanor,0
+68,49,Trespassing,Misdemeanor,1
+69,66,Outside Warrant Misd,Other,0
+69,66,Outside Warrant Misd,Other,1
+75,25,Gambling,Felony,0
+75,25,Gambling,Felony,1
+76,55,Gambling,Misdemeanor,0
+76,55,Gambling,Misdemeanor,1
+77,44,Liquor Laws,Misdemeanor,0
+77,44,Liquor Laws,Misdemeanor,1
+78,44,Liquor Laws,Misdemeanor,0
+78,44,Liquor Laws,Misdemeanor,1
+79,60,Contempt of Court,Misdemeanor,0
+79,60,Contempt of Court,Misdemeanor,1
+86,74,Misc Traffic,Other,0
+86,74,Misc Traffic,Other,1
+87,74,Misc Traffic,Other,0
+87,74,Misc Traffic,Other,1
+88,53,Traffic,Misdemeanor,0
+88,53,Traffic,Misdemeanor,1
+89,53,Traffic,Misdemeanor,0
+89,53,Traffic,Misdemeanor,1
+90,26,Federal Offense,Other,0
+90,26,Federal Offense,Other,1
+91,26,Federal Offense,Other,0
+91,26,Federal Offense,Other,1
+92,26,Federal Offense,Other,0
+92,26,Federal Offense,Other,1
+93,28,Probation/Parole Felony,Other,0
+93,28,Probation/Parole Felony,Other,1
+94,28,Probation/Parole Felony,Other,0
+94,28,Probation/Parole Felony,Other,1
+96,60,Other,Misdemeanor,0
+96,60,Other,Misdemeanor,1
+97,58,City/County Ordinance,Misdemeanor,0
+97,58,City/County Ordinance,Misdemeanor,1
+98,59,Failure to Appear/Non Traffic,Misdemeanor,0
+98,59,Failure to Appear/Non Traffic,Misdemeanor,1
+99,60,Other,Misdemeanor,0
+99,60,Other,Misdemeanor,1
+100,1,Homicide,Felony,0
+100,1,Homicide,Felony,1
+103,1,Homicide,Felony,0
+103,1,Homicide,Felony,1
+110,1,Homicide,Felony,0
+110,1,Homicide,Felony,1
+120,1,Homicide,Felony,0
+120,1,Homicide,Felony,1
+121,1,Homicide,Felony,0
+121,1,Homicide,Felony,1
+150,2,Manslaughter,Felony,0
+150,2,Manslaughter,Felony,1
+151,2,Manslaughter,Felony,0
+151,2,Manslaughter,Felony,1
+155,2,Manslaughter,Felony,0
+155,2,Manslaughter,Felony,1
+160,3,"Manslaughter, Vehicle",Felony,0
+160,3,"Manslaughter, Vehicle",Felony,1
+166,29,Vehicle Manslaughter,Misdemeanor,0
+166,29,Vehicle Manslaughter,Misdemeanor,1
+200,5,Robbery,Felony,0
+200,5,Robbery,Felony,1
+210,5,Robbery,Felony,0
+210,5,Robbery,Felony,1
+220,5,Robbery,Felony,0
+220,5,Robbery,Felony,1
+230,5,Robbery,Felony,0
+230,5,Robbery,Felony,1
+240,5,Robbery,Felony,1
+250,5,Robbery,Felony,0
+250,5,Robbery,Felony,1
+300,6,Assault,Felony,0
+300,6,Assault,Felony,1
+310,6,Assault,Felony,0
+310,6,Assault,Felony,1
+320,6,Assault,Felony,0
+320,6,Assault,Felony,1
+321,6,Assault,Felony,0
+321,6,Assault,Felony,1
+323,6,Assault,Felony,0
+323,6,Assault,Felony,1
+330,6,Assault,Felony,0
+330,6,Assault,Felony,1
+341,6,Assault,Felony,0
+341,6,Assault,Felony,1
+342,6,Assault,Felony,0
+342,6,Assault,Felony,1
+343,6,Assault,Felony,0
+343,6,Assault,Felony,1
+344,6,Assault,Felony,0
+344,6,Assault,Felony,1
+345,6,Assault,Felony,0
+345,6,Assault,Felony,1
+346,30,Assault and Battery,Misdemeanor,0
+346,30,Assault and Battery,Misdemeanor,1
+350,6,Assault,Felony,0
+350,6,Assault,Felony,1
+351,6,Assault,Felony,0
+351,6,Assault,Felony,1
+352,6,Assault,Felony,0
+352,6,Assault,Felony,1
+353,6,Assault,Felony,0
+353,6,Assault,Felony,1
+360,6,Assault,Felony,0
+360,6,Assault,Felony,1
+361,6,Assault,Felony,0
+361,6,Assault,Felony,1
+362,6,Assault,Felony,0
+362,6,Assault,Felony,1
+363,6,Assault,Felony,0
+363,6,Assault,Felony,1
+364,6,Assault,Felony,0
+364,6,Assault,Felony,1
+365,6,Assault,Felony,0
+365,6,Assault,Felony,1
+366,30,Assault and Battery,Misdemeanor,0
+366,30,Assault and Battery,Misdemeanor,1
+370,6,Assault,Felony,0
+370,6,Assault,Felony,1
+371,6,Assault,Felony,0
+371,6,Assault,Felony,1
+372,6,Assault,Felony,0
+372,6,Assault,Felony,1
+373,6,Assault,Felony,0
+373,6,Assault,Felony,1
+376,30,Assault and Battery,Misdemeanor,0
+376,30,Assault and Battery,Misdemeanor,1
+377,30,Assault and Battery,Misdemeanor,0
+377,30,Assault and Battery,Misdemeanor,1
+380,6,Assault,Felony,0
+380,6,Assault,Felony,1
+381,6,Assault,Felony,0
+381,6,Assault,Felony,1
+382,6,Assault,Felony,0
+382,6,Assault,Felony,1
+383,6,Assault,Felony,0
+383,6,Assault,Felony,1
+384,6,Assault,Felony,0
+384,6,Assault,Felony,1
+385,6,Assault,Felony,0
+385,6,Assault,Felony,1
+390,6,Assault,Felony,0
+390,6,Assault,Felony,1
+391,6,Assault,Felony,0
+391,6,Assault,Felony,1
+392,6,Assault,Felony,0
+392,6,Assault,Felony,1
+393,6,Assault,Felony,0
+393,6,Assault,Felony,1
+396,30,Assault and Battery,Misdemeanor,0
+396,30,Assault and Battery,Misdemeanor,1
+397,30,Assault and Battery,Misdemeanor,0
+397,30,Assault and Battery,Misdemeanor,1
+398,30,Assault and Battery,Misdemeanor,0
+398,30,Assault and Battery,Misdemeanor,1
+399,30,Assault and Battery,Misdemeanor,0
+399,30,Assault and Battery,Misdemeanor,1
+400,8,Burglary,Felony,0
+400,8,Burglary,Felony,1
+406,76,Burglary-Misd,Misdemeanor,0
+406,76,Burglary-Misd,Misdemeanor,1
+410,8,Burglary,Felony,0
+410,8,Burglary,Felony,1
+420,8,Burglary,Felony,0
+420,8,Burglary,Felony,1
+425,8,Burglary,Felony,0
+425,8,Burglary,Felony,1
+430,8,Burglary,Felony,0
+430,8,Burglary,Felony,1
+440,8,Burglary,Felony,0
+440,8,Burglary,Felony,1
+450,8,Burglary,Felony,0
+450,8,Burglary,Felony,1
+476,61,Burglary Tools,Misdemeanor,0
+476,61,Burglary Tools,Misdemeanor,1
+478,61,Burglary Tools,Misdemeanor,0
+478,61,Burglary Tools,Misdemeanor,1
+500,9,Theft,Felony,0
+500,9,Theft,Felony,1
+501,9,Theft,Felony,0
+501,9,Theft,Felony,1
+502,9,Theft,Felony,0
+502,9,Theft,Felony,1
+503,9,Theft,Felony,0
+503,9,Theft,Felony,1
+504,9,Theft,Felony,0
+504,9,Theft,Felony,1
+505,9,Theft,Felony,0
+505,9,Theft,Felony,1
+506,32,Other Theft,Misdemeanor,0
+506,32,Other Theft,Misdemeanor,1
+510,9,Theft,Felony,0
+510,9,Theft,Felony,1
+511,9,Theft,Felony,0
+511,9,Theft,Felony,1
+516,31,Petty Theft,Misdemeanor,0
+516,31,Petty Theft,Misdemeanor,1
+517,31,Petty Theft,Misdemeanor,0
+517,31,Petty Theft,Misdemeanor,1
+518,31,Petty Theft,Misdemeanor,0
+518,31,Petty Theft,Misdemeanor,1
+530,9,Theft,Felony,0
+530,9,Theft,Felony,1
+531,9,Theft,Felony,0
+531,9,Theft,Felony,1
+537,32,Other Theft,Misdemeanor,0
+537,32,Other Theft,Misdemeanor,1
+550,9,Theft,Felony,0
+550,9,Theft,Felony,1
+551,9,Theft,Felony,0
+551,9,Theft,Felony,1
+552,9,Theft,Felony,0
+552,9,Theft,Felony,1
+556,32,Other Theft,Misdemeanor,0
+556,32,Other Theft,Misdemeanor,1
+557,32,Other Theft,Misdemeanor,0
+557,32,Other Theft,Misdemeanor,1
+558,32,Other Theft,Misdemeanor,0
+558,32,Other Theft,Misdemeanor,1
+560,10,Motor Vehicle Theft,Felony,0
+560,10,Motor Vehicle Theft,Felony,1
+561,10,Motor Vehicle Theft,Felony,0
+561,10,Motor Vehicle Theft,Felony,1
+570,10,Motor Vehicle Theft,Felony,0
+570,10,Motor Vehicle Theft,Felony,1
+571,10,Motor Vehicle Theft,Felony,0
+571,10,Motor Vehicle Theft,Felony,1
+572,9,Theft,Felony,0
+572,9,Theft,Felony,1
+576,54,Joy Riding,Misdemeanor,0
+576,54,Joy Riding,Misdemeanor,1
+580,11,Forgery/Checks/Access Cards,Felony,1
+580,11,Forgery/Checks/Access Cards,Felony,0
+581,11,Forgery/Checks/Access Cards,Felony,1
+581,11,Forgery/Checks/Access Cards,Felony,0
+582,11,Forgery/Checks/Access Cards,Felony,1
+582,11,Forgery/Checks/Access Cards,Felony,0
+583,11,Forgery/Checks/Access Cards,Felony,1
+583,11,Forgery/Checks/Access Cards,Felony,0
+584,11,Forgery/Checks/Access Cards,Felony,1
+584,11,Forgery/Checks/Access Cards,Felony,0
+585,11,Forgery/Checks/Access Cards,Felony,1
+585,11,Forgery/Checks/Access Cards,Felony,0
+586,33,Checks and Access Cards,Misdemeanor,0
+586,33,Checks and Access Cards,Misdemeanor,1
+587,33,Checks and Access Cards,Misdemeanor,0
+587,33,Checks and Access Cards,Misdemeanor,1
+600,4,Forcible rape,Felony,0
+600,4,Rape,Felony,1
+610,4,Forcible rape,Felony,0
+610,4,Rape,Felony,1
+611,4,Forcible rape,Felony,0
+611,4,Rape,Felony,1
+620,4,Forcible rape,Felony,0
+620,4,Rape,Felony,1
+621,4,Forcible rape,Felony,0
+621,4,Rape,Felony,1
+630,4,Forcible rape,Felony,0
+630,4,Rape,Felony,1
+635,4,Forcible rape,Felony,0
+635,4,Rape,Felony,1
+640,17,Unlawful Sexual Intercourse,Felony,0
+640,17,Unlawful Sexual Intercourse,Felony,1
+646,38,Annoying Child,Misdemeanor,0
+646,38,Annoying Child,Misdemeanor,1
+700,16,Lewd or Lascivious,Felony,0
+700,16,Lewd or Lascivious,Felony,1
+705,4,Rape,Felony,1
+705,18,Other Sex Law Violations,Felony,0
+710,4,Rape,Felony,1
+710,18,Other Sex Law Violations,Felony,0
+711,4,Rape,Felony,1
+711,18,Other Sex Law Violations,Felony,0
+712,4,Rape,Felony,1
+712,18,Other Sex Law Violations,Felony,0
+713,4,Rape,Felony,1
+713,18,Other Sex Law Violations,Felony,0
+714,4,Rape,Felony,1
+714,18,Other Sex Law Violations,Felony,0
+720,18,Other Sex Law Violations,Felony,0
+720,18,Other Sex Law Violations,Felony,1
+726,42,Contributing to the Delinquency of Minor,Misdemeanor,1
+726,42,Contributing to the Delinquency of Minor,Misdemeanor,0
+730,18,Other Sex Law Violations,Felony,0
+730,18,Other Sex Law Violations,Felony,1
+731,4,Rape,Felony,1
+731,18,Other Sex Law Violations,Felony,0
+732,4,Rape,Felony,1
+732,18,Other Sex Law Violations,Felony,0
+733,4,Rape,Felony,1
+733,18,Other Sex Law Violations,Felony,0
+734,4,Rape,Felony,1
+734,18,Other Sex Law Violations,Felony,0
+737,62,Other Sex,Misdemeanor,1
+738,62,Other Sex,Misdemeanor,0
+738,62,Other Sex,Misdemeanor,1
+739,62,Other Sex,Misdemeanor,0
+739,62,Other Sex,Misdemeanor,1
+740,18,Other Sex Law Violations,Felony,0
+740,18,Other Sex Law Violations,Felony,1
+746,60,Other,Misdemeanor,0
+746,60,Other,Misdemeanor,1
+750,18,Other Sex Law Violations,Felony,0
+750,18,Other Sex Law Violations,Felony,1
+751,18,Other Sex Law Violations,Felony,0
+751,18,Other Sex Law Violations,Felony,1
+760,18,Other Sex Law Violations,Felony,0
+760,18,Other Sex Law Violations,Felony,1
+766,37,Indecent Exposure,Misdemeanor,0
+766,37,Indecent Exposure,Misdemeanor,1
+770,18,Other Sex Law Violations,Felony,0
+770,18,Other Sex Law Violations,Felony,1
+775,18,Other Sex Law Violations,Felony,0
+775,18,Other Sex Law Violations,Felony,1
+776,38,Annoying Child,Misdemeanor,0
+776,38,Annoying Child,Misdemeanor,1
+777,38,Annoying Child,Misdemeanor,1
+780,18,Other Sex Law Violations,Felony,0
+780,18,Other Sex Law Violations,Felony,1
+781,18,Other Sex Law Violations,Felony,0
+781,18,Other Sex Law Violations,Felony,1
+786,39,Obscene Matter,Misdemeanor,0
+786,39,Obscene Matter,Misdemeanor,1
+787,39,Obscene Matter,Misdemeanor,0
+787,39,Obscene Matter,Misdemeanor,1
+790,18,Other Sex Law Violations,Felony,0
+790,18,Other Sex Law Violations,Felony,1
+791,4,Rape,Felony,1
+791,18,Other Sex Law Violations,Felony,0
+792,18,Other Sex Law Violations,Felony,0
+792,18,Other Sex Law Violations,Felony,1
+793,18,Other Sex Law Violations,Felony,0
+793,18,Other Sex Law Violations,Felony,1
+794,18,Other Sex Law Violations,Felony,0
+794,18,Other Sex Law Violations,Felony,1
+800,12,Narcotics,Felony,0
+800,12,Narcotics,Felony,1
+801,12,Narcotics,Felony,0
+801,12,Narcotics,Felony,1
+802,12,Narcotics,Felony,0
+802,12,Narcotics,Felony,1
+803,12,Narcotics,Felony,0
+803,12,Narcotics,Felony,1
+804,12,Narcotics,Felony,0
+804,12,Narcotics,Felony,1
+805,15,Other Drug Law Violations,Felony,0
+805,15,Other Drug Law Violations,Felony,1
+810,13,Marijuana,Felony,0
+810,13,Marijuana,Felony,1
+811,13,Marijuana,Felony,0
+811,13,Marijuana,Felony,1
+812,13,Marijuana,Felony,0
+812,13,Marijuana,Felony,1
+813,13,Marijuana,Felony,0
+813,13,Marijuana,Felony,1
+815,13,Marijuana,Felony,0
+815,13,Marijuana,Felony,1
+816,34,Marijuana,Misdemeanor,0
+816,34,Marijuana,Misdemeanor,1
+817,36,Other Drug Law Violations,Misdemeanor,0
+817,36,Other Drug Law Violations,Misdemeanor,1
+818,36,Other Drug Law Violations,Misdemeanor,0
+818,36,Other Drug Law Violations,Misdemeanor,1
+819,34,Marijuana,Misdemeanor,0
+819,34,Marijuana,Misdemeanor,1
+820,14,Dangerous Drugs,Felony,0
+820,14,Dangerous Drugs,Felony,1
+821,14,Dangerous Drugs,Felony,0
+821,14,Dangerous Drugs,Felony,1
+822,14,Dangerous Drugs,Felony,0
+822,14,Dangerous Drugs,Felony,1
+825,14,Dangerous Drugs,Felony,0
+825,14,Dangerous Drugs,Felony,1
+826,35,Dangerous Drugs,Misdemeanor,0
+826,35,Dangerous Drugs,Misdemeanor,1
+827,35,Dangerous Drugs,Misdemeanor,0
+827,35,Dangerous Drugs,Misdemeanor,1
+828,13,Marijuana,Felony,0
+828,13,Marijuana,Felony,1
+829,34,Marijuana,Misdemeanor,0
+829,34,Marijuana,Misdemeanor,1
+831,15,Other Drug Law Violations,Felony,0
+831,15,Other Drug Law Violations,Felony,1
+832,15,Other Drug Law Violations,Felony,0
+832,15,Other Drug Law Violations,Felony,1
+833,15,Other Drug Law Violations,Felony,0
+833,15,Other Drug Law Violations,Felony,1
+834,15,Other Drug Law Violations,Felony,0
+834,15,Other Drug Law Violations,Felony,1
+835,15,Other Drug Law Violations,Felony,0
+835,15,Other Drug Law Violations,Felony,1
+836,36,Other Drug Law Violations,Misdemeanor,0
+836,36,Other Drug Law Violations,Misdemeanor,1
+837,36,Other Drug Law Violations,Misdemeanor,0
+837,36,Other Drug Law Violations,Misdemeanor,1
+838,36,Other Drug Law Violations,Misdemeanor,0
+838,36,Other Drug Law Violations,Misdemeanor,1
+839,36,Other Drug Law Violations,Misdemeanor,0
+839,36,Other Drug Law Violations,Misdemeanor,1
+840,19,Weapons,Felony,0
+840,19,Weapons,Felony,1
+841,19,Weapons,Felony,0
+841,19,Weapons,Felony,1
+842,19,Weapons,Felony,0
+842,19,Weapons,Felony,1
+843,19,Weapons,Felony,0
+843,19,Weapons,Felony,1
+844,19,Weapons,Felony,0
+844,19,Weapons,Felony,1
+845,19,Weapons,Felony,0
+845,19,Weapons,Felony,1
+846,50,Weapons,Misdemeanor,0
+846,50,Weapons,Misdemeanor,1
+847,50,Weapons,Misdemeanor,0
+847,50,Weapons,Misdemeanor,1
+848,50,Weapons,Misdemeanor,0
+848,50,Weapons,Misdemeanor,1
+849,50,Weapons,Misdemeanor,0
+849,50,Weapons,Misdemeanor,1
+850,20,Drive Under the Influence,Felony,0
+850,20,Drive Under the Influence,Felony,1
+851,15,Other Drug Law Violations,Felony,0
+851,15,Other Drug Law Violations,Felony,1
+854,20,Drive Under the Influence,Felony,0
+854,20,Drive Under the Influence,Felony,1
+855,20,Drive Under the Influence,Felony,0
+855,20,Drive Under the Influence,Felony,1
+856,51,Drive Under the Influence,Misdemeanor,0
+856,51,Drive Under the Influence,Misdemeanor,1
+857,36,Other Drug Law Violations,Misdemeanor,0
+857,36,Other Drug Law Violations,Misdemeanor,1
+858,51,Drive Under the Influence,Misdemeanor,0
+858,51,Drive Under the Influence,Misdemeanor,1
+859,51,Drive Under the Influence,Misdemeanor,0
+859,51,Drive Under the Influence,Misdemeanor,1
+860,21,Hit and Run,Felony,0
+860,21,Hit and Run,Felony,1
+865,25,Felony Traffic,Felony,0
+865,25,Felony Traffic,Felony,1
+867,52,Hit and Run,Misdemeanor,0
+867,52,Hit and Run,Misdemeanor,1
+869,53,Traffic,Misdemeanor,0
+869,53,Traffic,Misdemeanor,1
+870,22,Escape,Felony,0
+870,22,Escape,Felony,1
+871,22,Escape,Felony,0
+871,22,Escape,Felony,1
+872,22,Escape,Felony,0
+872,22,Escape,Felony,1
+873,22,Escape,Felony,0
+873,22,Escape,Felony,1
+874,22,Escape,Felony,0
+874,22,Escape,Felony,1
+875,22,Escape,Felony,0
+875,22,Escape,Felony,1
+876,63,Escape,Misdemeanor,0
+876,63,Escape,Misdemeanor,1
+880,7,Kidnapping,Felony,0
+880,7,Kidnapping,Felony,1
+881,7,Kidnapping,Felony,0
+881,7,Kidnapping,Felony,1
+882,7,Kidnapping,Felony,0
+882,7,Kidnapping,Felony,1
+883,7,Kidnapping,Felony,0
+883,7,Kidnapping,Felony,1
+884,7,Kidnapping,Felony,0
+884,7,Kidnapping,Felony,1
+890,23,Bookmaking,Felony,0
+890,23,Bookmaking,Felony,1
+891,7,Kidnapping,Felony,0
+891,7,Kidnapping,Felony,1
+900,25,Accessory,Felony,0
+900,25,Accessory,Felony,1
+901,25,Other Felony,Felony,0
+901,25,Other Felony,Felony,1
+905,25,Treason,Felony,0
+905,25,Treason,Felony,1
+910,25,Abortion,Felony,0
+910,25,Abortion,Felony,1
+911,25,Abortion,Felony,0
+911,25,Abortion,Felony,1
+920,24,Arson,Felony,0
+920,24,Arson,Felony,1
+921,24,Arson,Felony,0
+921,24,Arson,Felony,1
+922,24,Arson,Felony,0
+922,24,Arson,Felony,1
+923,24,Arson,Felony,0
+923,24,Arson,Felony,1
+924,24,Arson,Felony,0
+924,24,Arson,Felony,1
+925,24,Arson,Felony,0
+925,24,Arson,Felony,1
+926,64,Misd Arson,Misdemeanor,0
+926,64,Misd Arson,Misdemeanor,1
+927,24,Arson,Felony,0
+927,24,Arson,Felony,1
+929,64,Misd Arson,Misdemeanor,0
+929,64,Misd Arson,Misdemeanor,1
+930,25,Bigamy,Felony,0
+930,25,Bigamy,Felony,1
+940,25,Bribery,Felony,0
+940,25,Bribery,Felony,1
+941,25,Bribery,Felony,0
+941,25,Bribery,Felony,1
+942,25,Bribery,Felony,0
+942,25,Bribery,Felony,1
+943,25,Bribery,Felony,0
+943,25,Bribery,Felony,1
+944,25,Bribery,Felony,0
+944,25,Bribery,Felony,1
+945,25,Bribery,Felony,0
+945,25,Bribery,Felony,1
+946,60,Bribery,Misdemeanor,0
+946,60,Bribery,Misdemeanor,1
+950,25,Extort,Felony,0
+950,25,Extort,Felony,1
+960,25,Extort,Felony,0
+960,25,Extort,Felony,1
+961,25,Extort,Felony,0
+961,25,Extort,Felony,1
+966,60,Extort,Misdemeanor,0
+966,60,Extort,Misdemeanor,1
+970,25,Neglect,Felony,0
+970,25,Neglect,Felony,1
+971,25,Neglect,Felony,0
+971,25,Neglect,Felony,1
+976,56,Nonsupport,Misdemeanor,0
+976,56,Nonsupport,Misdemeanor,1
+977,60,Neglect,Misdemeanor,0
+977,60,Neglect,Misdemeanor,1
+980,25,Perjury,Felony,0
+980,25,Perjury,Felony,1
+981,25,Perjury,Felony,0
+981,25,Perjury,Felony,1
+985,25,Other Felony,Felony,0
+985,25,Other Felony,Felony,1
+986,60,Perjury,Misdemeanor,0
+986,60,Perjury,Misdemeanor,1
+990,25,Other Felony,Felony,0
+990,25,Other Felony,Felony,1
+991,25,Other Felony,Felony,0
+991,25,Other Felony,Felony,1
+992,25,Other Felony,Felony,0
+992,25,Other Felony,Felony,1
+993,25,Other Felony,Felony,0
+993,25,Other Felony,Felony,1
+994,25,Other Felony,Felony,0
+994,25,Other Felony,Felony,1
+995,25,Other Felony,Felony,0
+995,25,Other Felony,Felony,1
+998,25,Other Felony,Felony,0
+998,25,Other Felony,Felony,1
+000,Not Applicable,Unknown or Medical Assist,Unknown or Medical Assist,Not Applicable
